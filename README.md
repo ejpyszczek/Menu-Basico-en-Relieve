@@ -15,4 +15,4 @@ Autores ✒️
 Enrique J. Pyszczek 
 
 Expresiones de Gratitud 🎁
-Gracias a GitHub, a los videos y cursos que me  ayudaron a ir mejorando ente formulario de contacto 🤓.
+Gracias a GitHub, a las web amigas y a los videos con cursos que me  ayudaron a ir mejorando ente archivo 🤓.
